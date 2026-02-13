@@ -36,10 +36,6 @@ This is my first bioinformatics project, focusing on molecular evolution and phy
 
 ---
 
-## 📊 Phylogenetic Tree
-
-![16S Tree in MEGA](figures/16s rRNA align BT.png)
-
 ## Repository Structure
 /data -> FASTA sequences
 /results -> Phylogenetic tree files
