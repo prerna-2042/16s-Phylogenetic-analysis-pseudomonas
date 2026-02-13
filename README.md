@@ -37,9 +37,11 @@ This is my first bioinformatics project, focusing on molecular evolution and phy
 ---
 
 ## Repository Structure
-/data -> FASTA sequences
-/results -> Phylogenetic tree files
-/figures -> Tree images
+/data → FASTA sequences
+/results → Phylogenetic tree files
+/figures → Tree images
 README.md
+
+
 
 
